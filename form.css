@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    content: 20px white;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+}
+
+body {
+    background-color: gray;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: azure;
+    padding: 20px;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin: o.5rem 0 1rem;
+    line-height: 1.5rem;
+}
